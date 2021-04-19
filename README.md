@@ -1,13 +1,16 @@
 # DengueGo! Application
 
-Application created using Flutter to check Dengue cases within given location as well as safety measure guidelines.
+Application created using Flutter to:
+
+* Check Dengue cases within given location.
+* Display safety measure guidelines.
 
 ## Team Members:
 
 * Ankitha Anil
-* Kang Xin Wang
+* Chen Xue Yao
+* Kang Wang Xin
 * Shyam Sundar
-* Xueyao
 * Ze Ming
 
 
